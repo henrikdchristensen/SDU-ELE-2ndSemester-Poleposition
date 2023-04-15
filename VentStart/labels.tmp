@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Henrik-PC\Dropbox\VentStart</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>7</LINE></Reset>
+  <PWM><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>71</LINE></PWM>
+  <VentStart1><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>36</LINE></VentStart1>
+  <VentStart2><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>44</LINE></VentStart2>
+  <Start><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>57</LINE></Start>
+  <Stop><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>67</LINE></Stop>
+  <Automode><FILE>C:\Users\Henrik-PC\Dropbox\VentStart\VentStart.asm</FILE><LINE>75</LINE></Automode>
+ </LABELS>
+</ASSEMBLER_INFO>

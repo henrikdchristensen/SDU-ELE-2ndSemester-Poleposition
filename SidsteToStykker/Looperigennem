@@ -1,0 +1,104 @@
+;----------------------------------------------------------------------------
+;	Main.asm
+;----------------------------------------------------------------------------
+.include "m32adef.inc"
+
+;------ Interrupt register ----------
+
+.org	0x0000
+		rjmp		RESET
+
+;.org	0x000C
+;		rjmp		Matchinterrupt		
+
+;.org	0x000E							; Adresse til timer1/counter1 compare match A
+;		rjmp		MatchA
+
+;.org	0x0010							; Adresse til timer1/counter1 compare match B
+;		rjmp		MatchB				
+
+
+.dseg;- Variabler -------------------
+
+Table:	.byte 50						; Opretter Table fylder 2 adresser per plads
+
+.cseg;-------------------------------
+
+.org	0x008E							; Adresse = 42 + sum(Variabler) 
+RESET:
+
+.include "Setup.asm"
+
+Race:
+;------ Register forbrug ------------
+
+;		R20								; Lap Counter
+;		R26-R30							; Pointers
+
+		ldi		ZL,		low(Table)		; Henter tabellens lave adressen
+		ldi		ZH,		high(Table)		; Henter tebellens høje adressen
+
+		ldi		XL,		low(Table)		; Henter tabellens lave adressen
+		ldi		XH,		high(Table)		; Henter tebellens høje adressen
+
+
+		LDI		R16,0x00
+		out		SREG,R16
+
+		ldi		R16,0x11
+		ldi		R17,0x22
+		ldi		R18,0x03
+		ldi		R19,0xE8
+		ldi		R20,0x03
+		ldi		R21,0xE8
+
+		st		X+,R16					; 
+		st		X+,R17
+		st		X+,R18
+		st		X+,R19
+		st		X+,R20
+		st		X+,R21
+		ldi		R17,0x00
+
+		dec		XL
+		dec		XL
+		dec		XL
+
+		ldi		XL,low(Table)
+		ldi		XH,high(Table)
+; ------------------------------------
+; tjekker om den har nået den sidste værdi
+; og hvis den har det, så lægges de to sidste værdier sammen
+; og gemmes i R16 (low) og R17 (high) 
+Tjek1:		
+		ld		R16,X+
+		cpi		R16,0xFF
+		BRbs	SREG_Z,Tjek2
+		rjmp	Tjek1
+
+Tjek2:
+		ld		R16,X+
+		cpi		R16,0x00
+		brbs	SREG_Z,Additionaftosidste
+		ldi		XL,		low(Table)		; Henter tabellens lave adressen
+		ldi		XH,		high(Table)		; Henter tebellens høje adressen
+		rjmp	Tjek1	
+		
+Additionaftosidste:	
+		
+		sbiw	XH:XL,6					; Springer tilbage til de to sidste 16-bits tal
+		ld		R17,X+					; Gemmer de to 16-bits i 4 registrer til senere brug (addition)
+		ld		R16,X+
+		ld		R19,X+
+		ld		R18,X
+		
+		add		R16,R18					;Addere to 16bits tal - R17:R16 + R19:R18 = R17:R16
+		adc		R17,R19					;Gemmer resultatet i R16,R17
+
+
+		movw	R19:R18,R17:R16			;Gemmer værdien for de to sidste omgange så
+										; de kan udrenges for den nye bremse længde
+		;Kald NyBremse
+
+
+

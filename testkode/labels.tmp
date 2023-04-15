@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\Setup.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</FILE><LINE>21</LINE></RESET>
+  <MatchA><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</FILE><LINE>67</LINE></MatchA>
+  <MatchB><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</FILE><LINE>72</LINE></MatchB>
+  <Race><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</FILE><LINE>27</LINE></Race>
+  <Main><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\testkode\testcounter1.asm</FILE><LINE>64</LINE></Main>
+ </LABELS>
+</ASSEMBLER_INFO>

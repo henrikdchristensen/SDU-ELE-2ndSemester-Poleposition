@@ -1,0 +1,102 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Setup.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\ToStykker.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>54</LINE></RESET>
+  <Maalstreg><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>176</LINE></Maalstreg>
+  <MatchA><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>322</LINE></MatchA>
+  <MatchB><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>333</LINE></MatchB>
+  <Counter0><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>218</LINE></Counter0>
+  <ADK><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>144</LINE></ADK>
+  <Table><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>50</LINE></Table>
+  <PWM><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE><LINE>41</LINE></PWM>
+  <VentStart1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE><LINE>5</LINE></VentStart1>
+  <VentStart2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE><LINE>14</LINE></VentStart2>
+  <Start><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE><LINE>27</LINE></Start>
+  <Stop><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\VentStart.asm</FILE><LINE>37</LINE></Stop>
+  <Automode><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>87</LINE></Automode>
+  <Vent><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>107</LINE></Vent>
+  <Vent2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>111</LINE></Vent2>
+  <Main><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>127</LINE></Main>
+  <InTurn1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE><LINE>24</LINE></InTurn1>
+  <Turn><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE><LINE>19</LINE></Turn>
+  <EndHys><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE><LINE>42</LINE></EndHys>
+  <Counter1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>156</LINE></Counter1>
+  <InTurn2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE><LINE>30</LINE></InTurn2>
+  <ClearTurnFlag><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\svingHYS.asm</FILE><LINE>36</LINE></ClearTurnFlag>
+  <Lap><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>271</LINE></Lap>
+  <Sidste><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>185</LINE></Sidste>
+  <Tabelload><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>210</LINE></Tabelload>
+  <Race><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>226</LINE></Race>
+  <Tilbage><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>314</LINE></Tilbage>
+  <Stykke><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>283</LINE></Stykke>
+  <TjekToFrem><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\ToStykker.asm</FILE><LINE>13</LINE></TjekToFrem>
+  <Tjek2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\ToStykker.asm</FILE><LINE>20</LINE></Tjek2>
+  <Hoptilbage><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\ToStykker.asm</FILE><LINE>70</LINE></Hoptilbage>
+  <Additionaftosidste><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\ToStykker.asm</FILE><LINE>29</LINE></Additionaftosidste>
+  <Udregning><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>366</LINE></Udregning>
+  <Accelerate><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>371</LINE></Accelerate>
+  <Wait><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>310</LINE></Wait>
+  <Wait2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>318</LINE></Wait2>
+  <AccelerateStop><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>394</LINE></AccelerateStop>
+  <ResetCounter1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>359</LINE></ResetCounter1>
+  <Sving><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>341</LINE></Sving>
+  <Sammenlign><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>22</LINE></Sammenlign>
+  <BL1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>64</LINE></BL1>
+  <BL2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>65</LINE></BL2>
+  <BL3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>66</LINE></BL3>
+  <BL4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>67</LINE></BL4>
+  <BL5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>68</LINE></BL5>
+  <BL6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>69</LINE></BL6>
+  <BL7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>70</LINE></BL7>
+  <BL8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>71</LINE></BL8>
+  <BL9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>72</LINE></BL9>
+  <BL10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>73</LINE></BL10>
+  <BL11><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>74</LINE></BL11>
+  <END><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>292</LINE></END>
+  <NBL1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>77</LINE></NBL1>
+  <NBL2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>98</LINE></NBL2>
+  <NBL3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>119</LINE></NBL3>
+  <NBL4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>140</LINE></NBL4>
+  <NBL5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>161</LINE></NBL5>
+  <NBL6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>182</LINE></NBL6>
+  <NBL7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>203</LINE></NBL7>
+  <NBL8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>224</LINE></NBL8>
+  <NBL9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>245</LINE></NBL9>
+  <NBL10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>266</LINE></NBL10>
+  <NBL11><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>287</LINE></NBL11>
+  <Ligestykke1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>92</LINE></Ligestykke1>
+  <Ligestykke2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>113</LINE></Ligestykke2>
+  <Ligestykke3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>134</LINE></Ligestykke3>
+  <Ligestykke4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>155</LINE></Ligestykke4>
+  <Ligestykke5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>176</LINE></Ligestykke5>
+  <Ligestykke6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>197</LINE></Ligestykke6>
+  <Ligestykke7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>218</LINE></Ligestykke7>
+  <Ligestykke8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>239</LINE></Ligestykke8>
+  <Ligestykke9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>260</LINE></Ligestykke9>
+  <Ligestykke10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\NyBremse.asm</FILE><LINE>281</LINE></Ligestykke10>
+  <AccelerationInt><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Automode\Main.asm</FILE><LINE>384</LINE></AccelerationInt>
+ </LABELS>
+</ASSEMBLER_INFO>

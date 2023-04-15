@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Setup.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>47</LINE></RESET>
+  <Maalstreg><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>145</LINE></Maalstreg>
+  <Send><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>179</LINE></Send>
+  <ADK><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>118</LINE></ADK>
+  <Table><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>41</LINE></Table>
+  <Automode><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>71</LINE></Automode>
+  <Vent><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>91</LINE></Vent>
+  <Vent2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>96</LINE></Vent2>
+  <Main><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>112</LINE></Main>
+  <InTurn1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE><LINE>18</LINE></InTurn1>
+  <Turn><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE><LINE>13</LINE></Turn>
+  <EndHys><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE><LINE>32</LINE></EndHys>
+  <Counter1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>129</LINE></Counter1>
+  <InTurn2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE><LINE>22</LINE></InTurn2>
+  <InTurn3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\svingHYS.asm</FILE><LINE>27</LINE></InTurn3>
+  <Sidste><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>154</LINE></Sidste>
+  <Venter><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>164</LINE></Venter>
+  <Venter2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>177</LINE></Venter2>
+  <Slut><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>200</LINE></Slut>
+  <Send2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>189</LINE></Send2>
+  <Send3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>194</LINE></Send3>
+  <Send4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>205</LINE></Send4>
+  <Send5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AutomodeTest\Main.asm</FILE><LINE>209</LINE></Send5>
+ </LABELS>
+</ASSEMBLER_INFO>

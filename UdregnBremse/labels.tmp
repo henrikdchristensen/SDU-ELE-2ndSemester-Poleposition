@@ -1,0 +1,58 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>7</LINE></Reset>
+  <Sammenlign><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>32</LINE></Sammenlign>
+  <BL1><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>74</LINE></BL1>
+  <BL2><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>75</LINE></BL2>
+  <BL3><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>76</LINE></BL3>
+  <BL4><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>77</LINE></BL4>
+  <BL5><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>78</LINE></BL5>
+  <BL6><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>79</LINE></BL6>
+  <BL7><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>80</LINE></BL7>
+  <BL8><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>81</LINE></BL8>
+  <BL9><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>82</LINE></BL9>
+  <BL10><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>83</LINE></BL10>
+  <BL11><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>84</LINE></BL11>
+  <END><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>322</LINE></END>
+  <NBL1><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>87</LINE></NBL1>
+  <NBL2><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>110</LINE></NBL2>
+  <NBL3><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>133</LINE></NBL3>
+  <NBL4><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>156</LINE></NBL4>
+  <NBL5><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>179</LINE></NBL5>
+  <NBL6><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>202</LINE></NBL6>
+  <NBL7><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>225</LINE></NBL7>
+  <NBL8><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>248</LINE></NBL8>
+  <NBL9><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>271</LINE></NBL9>
+  <NBL10><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>294</LINE></NBL10>
+  <NBL11><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>317</LINE></NBL11>
+  <Ligestykke1><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>103</LINE></Ligestykke1>
+  <Ligestykke2><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>126</LINE></Ligestykke2>
+  <Ligestykke3><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>149</LINE></Ligestykke3>
+  <Ligestykke4><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>172</LINE></Ligestykke4>
+  <Ligestykke5><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>195</LINE></Ligestykke5>
+  <Ligestykke6><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>218</LINE></Ligestykke6>
+  <Ligestykke7><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>241</LINE></Ligestykke7>
+  <Ligestykke8><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>264</LINE></Ligestykke8>
+  <Ligestykke9><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>287</LINE></Ligestykke9>
+  <Ligestykke10><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\UdregnBremse\NyBremse.asm</FILE><LINE>310</LINE></Ligestykke10>
+ </LABELS>
+</ASSEMBLER_INFO>

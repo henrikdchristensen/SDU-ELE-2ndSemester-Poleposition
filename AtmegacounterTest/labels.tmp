@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\Setup.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>22</LINE></RESET>
+  <Start><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>30</LINE></Start>
+  <Main><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>40</LINE></Main>
+  <Counter1><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>60</LINE></Counter1>
+  <Reset_counter1><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>69</LINE></Reset_counter1>
+  <Hastighed><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>77</LINE></Hastighed>
+  <hast><FILE>C:\Users\Christian\Dropbox\Projekt (PRO)\Projekt\Microcontroller\AtmegacounterTest\ATcounter.asm</FILE><LINE>79</LINE></hast>
+ </LABELS>
+</ASSEMBLER_INFO>

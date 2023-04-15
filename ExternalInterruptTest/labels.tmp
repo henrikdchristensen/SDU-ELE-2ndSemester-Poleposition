@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Setup.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>25</LINE></RESET>
+  <Maalstreg><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>53</LINE></Maalstreg>
+  <Start><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>33</LINE></Start>
+  <Main><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>40</LINE></Main>
+  <Nisser><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>57</LINE></Nisser>
+  <Nulstil><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>61</LINE></Nulstil>
+  <Fart><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\ExternalInterruptTest\Externalinterrupt.asm</FILE><LINE>65</LINE></Fart>
+ </LABELS>
+</ASSEMBLER_INFO>

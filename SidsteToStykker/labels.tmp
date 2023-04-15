@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\Setup.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>28</LINE></RESET>
+  <Table><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>23</LINE></Table>
+  <Race><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>32</LINE></Race>
+  <TjekToFrem><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>97</LINE></TjekToFrem>
+  <Tjek2><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>105</LINE></Tjek2>
+  <Hoptilbage><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>148</LINE></Hoptilbage>
+  <Additionaftosidste><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>113</LINE></Additionaftosidste>
+  <HopOgTjek><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>134</LINE></HopOgTjek>
+  <SkrivOver><FILE>C:\Users\Asger\Dropbox\Projekt (PRO) (2.sem.)\Projekt\Microcontroller\SidsteToStykker\ToStykker.asm</FILE><LINE>139</LINE></SkrivOver>
+ </LABELS>
+</ASSEMBLER_INFO>

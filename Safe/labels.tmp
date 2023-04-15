@@ -1,0 +1,104 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32A</DEVICE>
+ <WORKING_DIR>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32adef.inc</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Setup.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\ToStykker.asm</FILE>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>53</LINE></RESET>
+  <Maalstreg><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>282</LINE></Maalstreg>
+  <AccelerationInt><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>435</LINE></AccelerationInt>
+  <ADK><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>254</LINE></ADK>
+  <Table><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>49</LINE></Table>
+  <PWM><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE><LINE>41</LINE></PWM>
+  <VentStart1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE><LINE>5</LINE></VentStart1>
+  <VentStart2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE><LINE>14</LINE></VentStart2>
+  <Start><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE><LINE>27</LINE></Start>
+  <Stop><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\VentStart.asm</FILE><LINE>37</LINE></Stop>
+  <Automode><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>89</LINE></Automode>
+  <Andencon><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>94</LINE></Andencon>
+  <Vent><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>217</LINE></Vent>
+  <Vent2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>221</LINE></Vent2>
+  <Main><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>237</LINE></Main>
+  <InTurn1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE><LINE>24</LINE></InTurn1>
+  <Turn><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE><LINE>19</LINE></Turn>
+  <EndHys><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE><LINE>42</LINE></EndHys>
+  <Counter1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>266</LINE></Counter1>
+  <InTurn2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE><LINE>30</LINE></InTurn2>
+  <ClearTurnFlag><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\svingHYS.asm</FILE><LINE>36</LINE></ClearTurnFlag>
+  <Lap><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>331</LINE></Lap>
+  <Sidste><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>289</LINE></Sidste>
+  <Race><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>300</LINE></Race>
+  <Stykke><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>341</LINE></Stykke>
+  <TjekToFrem><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\ToStykker.asm</FILE><LINE>14</LINE></TjekToFrem>
+  <Tjek2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\ToStykker.asm</FILE><LINE>22</LINE></Tjek2>
+  <Hoptilbage><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\ToStykker.asm</FILE><LINE>75</LINE></Hoptilbage>
+  <Additionaftosidste><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\ToStykker.asm</FILE><LINE>31</LINE></Additionaftosidste>
+  <Udregning><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>420</LINE></Udregning>
+  <Accelerate><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>425</LINE></Accelerate>
+  <Wait><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>356</LINE></Wait>
+  <Brems1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>364</LINE></Brems1>
+  <MatchA><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>389</LINE></MatchA>
+  <WaitBrems><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>369</LINE></WaitBrems>
+  <Brems2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>380</LINE></Brems2>
+  <Tilbage><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>377</LINE></Tilbage>
+  <MatchB><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>397</LINE></MatchB>
+  <Wait2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>385</LINE></Wait2>
+  <AccelerateStop><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>442</LINE></AccelerateStop>
+  <ResetCounter1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>413</LINE></ResetCounter1>
+  <Sving><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\Main.asm</FILE><LINE>402</LINE></Sving>
+  <Sammenlign><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>21</LINE></Sammenlign>
+  <BL1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>63</LINE></BL1>
+  <BL2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>64</LINE></BL2>
+  <BL3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>65</LINE></BL3>
+  <BL4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>66</LINE></BL4>
+  <BL5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>67</LINE></BL5>
+  <BL6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>68</LINE></BL6>
+  <BL7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>69</LINE></BL7>
+  <BL8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>70</LINE></BL8>
+  <BL9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>71</LINE></BL9>
+  <BL10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>72</LINE></BL10>
+  <BL11><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>73</LINE></BL11>
+  <END><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>293</LINE></END>
+  <NBL1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>76</LINE></NBL1>
+  <NBL2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>97</LINE></NBL2>
+  <NBL3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>118</LINE></NBL3>
+  <NBL4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>139</LINE></NBL4>
+  <NBL5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>160</LINE></NBL5>
+  <NBL6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>181</LINE></NBL6>
+  <NBL7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>202</LINE></NBL7>
+  <NBL8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>223</LINE></NBL8>
+  <NBL9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>244</LINE></NBL9>
+  <NBL10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>265</LINE></NBL10>
+  <NBL11><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>286</LINE></NBL11>
+  <Ligestykke1><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>91</LINE></Ligestykke1>
+  <Ligestykke2><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>112</LINE></Ligestykke2>
+  <Ligestykke3><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>133</LINE></Ligestykke3>
+  <Ligestykke4><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>154</LINE></Ligestykke4>
+  <Ligestykke5><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>175</LINE></Ligestykke5>
+  <Ligestykke6><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>196</LINE></Ligestykke6>
+  <Ligestykke7><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>217</LINE></Ligestykke7>
+  <Ligestykke8><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>238</LINE></Ligestykke8>
+  <Ligestykke9><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>259</LINE></Ligestykke9>
+  <Ligestykke10><FILE>C:\Users\Martin\Dropbox\Projekt (PRO)\Projekt\Microcontroller\Safe\NyBremse.asm</FILE><LINE>280</LINE></Ligestykke10>
+ </LABELS>
+</ASSEMBLER_INFO>
